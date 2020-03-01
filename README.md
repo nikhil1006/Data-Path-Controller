@@ -50,6 +50,8 @@ The submitted values for the input port and the respective output port are displ
 ## Execution
 If you want to see it in action, Download the ```/Release``` folder with all the dll files in it and run ```DataPathController.exe```
 
+>**Note**: The GUI for DPC presently works only in the ```light mode``` of the windows. feel free to modify the code and make it work in the dark mode too.
+
 ## Requirements
 Requires Visual Studio with latest extensions and plugins of Fluent Windows Platform
 
@@ -58,7 +60,7 @@ C#, Visual Studio
 
 ## Authors
 
-* **Sathwik Vadlamani** - *Initial design work, Logic, debugging* - [nikhilsathwik2806](https://github.com/nikhilsathwik2806)
+* **Sathwik Vadlamani** - *Initial design work, Logic, debugging, doccumentation* - [nikhilsathwik2806](https://github.com/nikhilsathwik2806)
 * **Shriram Ravindranathan** - *logic Debugging ,c# debugging* - [notshriram](https://github.com/notshriram)
 
 ## License
