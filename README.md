@@ -60,7 +60,7 @@ C#, Visual Studio
 
 ## Authors
 
-* **Sathwik Vadlamani** - *Initial design work, Logic, debugging, doccumentation* - [nikhilsathwik2806](https://github.com/nikhilsathwik2806)
+* **Sathwik Vadlamani** - *Initial design work, Logic, debugging, doccumentation* - [nikhilsathwik2806](https://github.com/nikhil1006)
 * **Shriram Ravindranathan** - *logic Debugging ,c# debugging* - [notshriram](https://github.com/notshriram)
 
 ## License
