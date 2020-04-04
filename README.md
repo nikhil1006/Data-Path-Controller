@@ -28,20 +28,20 @@ The Output of the demodulator having clock and bit stream data is routed to Fron
 
 ## 3. Results & Screenshots
 
-<img title="DPC - Window" src="https://github.com/nikhilsathwik2806/Data-Path-Controller/blob/master/Annotation%202020-02-29%20201105.PNG" alt="DPC-Window" width=720/></img>
+<img title="DPC - Window" src="https://github.com/nikhilsathwik2806/Data-Path-Controller/blob/master/Annotation%202020-02-29%20201105.png" alt="DPC-Window" width=720/></img>
 
 <p align="center"><i><b>Figure 3.1 DPC-Window</b></i></p>
 
 The above picture shows the window format of the DPC consisting of the input ports and the output ports. 
 It also contains a scroll down combo box consisting of numbers in the range of 01-16 and a submit button.
 
-<img src="https://github.com/nikhilsathwik2806/Data-Path-Controller/blob/master/Annotation%202020-02-29%20201206.PNG" width=720/></img>
+<img src="https://github.com/nikhilsathwik2806/Data-Path-Controller/blob/master/Annotation%202020-02-29%20201206.png" width=720/></img>
 
 <p align="center"><i><b>Figure 3.2 DPC Dialogoue Box-1</b></i></p>
 
 After the desired output port values are selected and the submit button is clicked the message is displayed as ```Successfully Submitted```.
 
-<img src="https://github.com/nikhilsathwik2806/Data-Path-Controller/blob/master/Annotation%202020-02-29%20201234.PNG" width=720/></img>
+<img src="https://github.com/nikhilsathwik2806/Data-Path-Controller/blob/master/Annotation%202020-02-29%20201234.png" width=720/></img>
 
 <p align="center"><i><b>Figure 3.3 DPC Dialogue Box-2</b></i></p>
 
